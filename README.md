@@ -22,10 +22,19 @@ I’m currently learning by working on my own projects to grow my skills.  </p>
 
 <h2> 🚀 &nbsp;Stack</h2>
 <p align="left">
+  
+
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="45" height="45"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="45" height="45"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vsc" width="45" height="45"/>
+
+
+
 </p>
 
 <h2>📂 Projects</h2>
