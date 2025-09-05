@@ -31,6 +31,7 @@ I’m currently learning by working on my own projects to grow my skills.  </p>
 </p>
 
 <h2>📂 Projects</h2>
+
 - 📝 [Flashify](https://github.com/husarixxx/Flashify) — — Frontend of a fullstack app built with React, collaborated with a friend; responsible for UI and interactivity  
 - 🖥️ [Shopy]([#](https://github.com/dawidtt/shopy)) — Shop app built with React + Tailwind using fakestoreapi; includes product listing, filtering, cart
 - 🎮 [Memory Game](https://github.com/dawidtt/memory-game) — One of my first React projects; implemented game logic and state management
