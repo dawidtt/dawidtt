@@ -11,10 +11,8 @@
   </a>
 </div>
 
-<hr>
 
 <h2> 🚀 &nbsp;Stack</h2>
-<hr/>
 <p align="left">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="45" height="45"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="45" height="45"/>
