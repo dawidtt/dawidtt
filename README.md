@@ -1,9 +1,10 @@
 
 
 <h1>Hi everyone 👋</h1>
-### 🎯 My current goal is to become a Junior Frontend Developer.  
+🎯 My current goal is to become a Junior Frontend Developer.  
 In the future, I want to learn Node.js and become a Fullstack Developer.  
 I’m currently learning by working on my own projects to grow my skills.  
+
 - 🎓 Student of Computer Science at Poznan University of Technology
 - 💡 I enjoy building interactive applications  
 - 🌱 Always open to learning new technologies  
